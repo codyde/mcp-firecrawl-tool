@@ -2,6 +2,10 @@
 
 This is a simple MCP server that provides tools to scrape websites and extract structured data using Firecrawl's APIs.
 
+<a href="https://glama.ai/mcp/servers/sftk6d22mq">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/sftk6d22mq/badge" alt="Firecrawl Server MCP server" />
+</a>
+
 ## Setup
 
 1. Install dependencies:
@@ -117,4 +121,4 @@ If you encounter issues:
 1. Verify your Firecrawl API token is valid
 2. Check that the URLs you're trying to scrape are accessible
 3. For complex schemas, ensure they follow the supported format
-4. Review Sentry logs for detailed error information (if configured) 
+4. Review Sentry logs for detailed error information (if configured)
